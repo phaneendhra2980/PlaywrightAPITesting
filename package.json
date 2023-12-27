@@ -1,0 +1,19 @@
+{
+  "name": "playwrightapitesting",
+  "version": "1.0.0",
+  "description": "---\r # Playwright API Testing Setup Guide\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Phaneendhra Aswani Kumar Bontha",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5",
+    "luxon": "^3.4.4",
+    "rimraf": "^5.0.5"
+  }
+}
